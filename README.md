@@ -1,4 +1,4 @@
-<img src="https://feascript.github.io/FEAScript-website/assets/feascript-logo.png" width="80" alt="FEAScript Logo">
+<img src="https://feascript.github.io/FEAScript-website/assets/feascript-custom-code.png" width="80" alt="FEAScript custom code logo">
 
 # FEAScript-Scribbler-examples
 
