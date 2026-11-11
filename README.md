@@ -8,19 +8,19 @@ You can also explore and run these examples live on [Scribbler Hub](https://hub.
 
 ## Examples
 
-### Creeping flow (creepingFlowScript)
+### Creeping flow (creepingFlow)
 
 - **Creeping flow in a 2D lid-driven cavity**: 2D steady Stokes (incompressible creeping flow) simulation in a rectangular cavity with no-slip walls and a moving top lid, solved with Taylor-Hood mixed finite elements (Q2/Q1).
 
-### Front propagation (frontPropagationScript)
+### Front propagation (frontPropagation)
 
 - **Solidification front propagation in a 2D domain**: 2D steady-state eikonal equation problem modeling the movement of a solidification interface (e.g., in metal cooling or crystal growth), with constant-value boundary conditions on three sides and zero-gradient on the remaining boundary.
 
-### General-form PDE (generalFormPDEScript)
+### General-form PDE (generalFormPDE)
 
 - **Advection-diffusion with a Gaussian source term**: 1D advection-diffusion problem with a source term, demonstrating the use of constant value and zero-gradient boundary conditions.
 
-### Heat conduction (heatConductionScript)
+### Heat conduction (heatConduction)
 
 - **Heat conduction through a wall**: 1D heat transfer with convection and constant temperature boundary conditions.
 - **Heat conduction in a 2D fin**: 2D heat transfer in a cooling fin with symmetry, convection, and constant-temperature boundaries.
