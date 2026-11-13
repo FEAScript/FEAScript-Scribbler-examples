@@ -11,6 +11,11 @@ You can also explore and run these examples live on [Scribbler Hub](https://hub.
 ### Creeping flow (creepingFlow)
 
 - **Creeping flow in a 2D lid-driven cavity**: 2D steady Stokes (incompressible creeping flow) simulation in a rectangular cavity with no-slip walls and a moving top lid, solved with Taylor-Hood mixed finite elements (Q2/Q1).
+- **Creeping flow through a 2D pillar array**: 2D steady Stokes flow in a channel with a staggered array of round pillars, on an unstructured Gmsh mesh of quadratic triangles with Taylor-Hood mixed finite elements (P2/P1).
+
+### Euler-Bernoulli beam (eulerBernoulliBeam)
+
+- **Cantilever beam under a tip load**: 1D Euler-Bernoulli cantilever beam bending under a concentrated tip load, solved with cubic Hermite elements and verified against the analytical solution.
 
 ### Front propagation (frontPropagation)
 
